@@ -1,0 +1,21 @@
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.exe.config
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.exe
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.pdb
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.xml
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\_139399_Programming_512_Exam.frmCommuteCalculator.resources
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\_139399_Programming_512_Exam.Resources.resources
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.vbproj.GenerateResource.Cache
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.exe
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.xml
+C:\Users\STUDENTS\Desktop\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.pdb
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.exe.config
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.exe
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.pdb
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\bin\Debug\139399_Programming_512_Exam.xml
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.vbprojAssemblyReference.cache
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\_139399_Programming_512_Exam.frmCommuteCalculator.resources
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\_139399_Programming_512_Exam.Resources.resources
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.vbproj.GenerateResource.cache
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.exe
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.xml
+C:\Users\antma\OneDrive\Richfield\year_1\semester_2\Programming 512\exam\139399 Anthony Gordon Kruger Programming 512 exam\139399_Programming_512_Exam\139399_Programming_512_Exam\obj\Debug\139399_Programming_512_Exam.pdb

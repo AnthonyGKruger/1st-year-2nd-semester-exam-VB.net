@@ -1,0 +1,60 @@
+Mode of transport: Uber
+Trips per Month: 10
+Cost per trip: R10
+Cost per year: $1,440.00
+
+Mode of transport: Uber
+Trips per Month: 10
+Cost per trip: R10
+Cost per year: $1,440.00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R10
+Cost per year: R6 480,00
+
+Mode of transport: Uber
+Trips per Month: 45
+Cost per trip: R40
+Cost per year: R25 920,00
+
+Mode of transport: Uber
+Trips per Month: 28
+Cost per trip: R100
+Cost per year: R40 320,00
+
+Mode of transport: Uber
+Trips per Month: 28
+Cost per trip: R20
+Cost per year: R8 064,00
+
